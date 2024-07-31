@@ -6,15 +6,31 @@
       
       "b": "https://example.com/", //PRIVACY_POLICY
       
-      "c": "This app must be on your android phone" +
-    "\n\nTitle : Voice Ai - Mobile Assistant " +
-    "\n\nAbout the application :" +
-    "\nThe music player application is equipped with lyrics, hopefully this application can be useful and faithfully accompany your days in any situation. " +
-    "\n\nSupport this application by rating, commenting and sharing with many people" +
+      "c": "Aplikasi ini harus ada di ponsel android Anda" +
+      
+    "\n\nJudul aplikasi : Voice Ai - Mobile Assistant " +
+    
+    "\n\nTentang aplikasi :" +
+    "\nVoice AI Mobile Assistant adalah aplikasi inovatif yang akan membantu Anda berkomunikasi dan berproduktivitas lebih efisien. " +
+    
+    "\n\nAplikasi terdepan dalam teknologi suara yang dirancang untuk mempermudah komunikasi dan manajemen informasi Anda. Dengan kemampuan konversi teks ke suara yang jernih dan alami, serta fitur transkripsi suara ke teks yang akurat, aplikasi ini menawarkan solusi komprehensif untuk kebutuhan sehari-hari Anda. " +
+    
+    "\n\nCara penggunaan :" +
+    "\n1. Instal aplikasi resmi ChatGPT. " +
+    "\n2. Buka aplikasi ChatGPT dan atur akun Anda/buat akun baru jika belum memiliki. " +
+    "\n3. Instal aplikasi Voice AI - Mobile Assistant [Get Started]. " +
+    "\n4. Buka aplikasi dan atur asisten suara dalam dialog. " +
+    "\n5. Pilih Voice Ai - Mobile Assistant. " +
+    "\n6. jalankan [Run Voice Ai]. " +
+    "\n7. Jika anda ingin melihat/membaca/salin text buka aplikasi ChatGPT."+
+    
+    "\n\nSupport dengan cara berikan penilaian, saran, komentar and bagikan kepada teman, kerabat, saudara dan keluarga serta banyak orang lainnya" +
+    
     "\n\nPrivacy policy & download alternative :" +
     "\nhttps://tholabul-ilmi2023.blogspot.com/privacy" +
-    "\n\nCheck it now from store (free) :  📲  " +
-    "\nhttps://",  //LINK_SHARE_APP
+    
+    "\n\nInformasi lebih lengkap kunjungi toko aplikasi :  📲  " +
+    "\nhttps://play.google.com/store/apps/details?id=",  //LINK_SHARE_APP
       
       "d": "", //STATUS_APP
       
