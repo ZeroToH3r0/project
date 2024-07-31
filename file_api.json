@@ -2,10 +2,22 @@
   "https://*********************************": [  
   
     {
-      "a": "Voice Ai - Mobile Assistans", //JUDUL_APP
+      "a": "Voice Ai - Mobile Assistant", //JUDUL_APP
+      
       "b": "https://example.com/", //PRIVACY_POLICY
-      "c": "https://", //LINK_SHARE_APP
+      
+      "c": "This app must be on your android phone" +
+    "\n\nTitle : Voice Ai - Mobile Assistant " +
+    "\n\nAbout the application :" +
+    "\nThe music player application is equipped with lyrics, hopefully this application can be useful and faithfully accompany your days in any situation. " +
+    "\n\nSupport this application by rating, commenting and sharing with many people" +
+    "\n\nPrivacy policy & download alternative :" +
+    "\nhttps://tholabul-ilmi2023.blogspot.com/privacy" +
+    "\n\nCheck it now from store (free) :  📲  " +
+    "\nhttps://",  //LINK_SHARE_APP
+      
       "d": "", //STATUS_APP
+      
       "e": "15", //REFRESH_TIME_CONNECTIONS
       
       // ORIGINAL
