@@ -31,7 +31,9 @@
     
     "\n\nInformasi lebih lengkap kunjungi toko aplikasi :  📲  " +
     "\nhttps://play.google.com/store/apps/details?id=",  //LINK_SHARE_APP
-      
+    
+      "cc": "https://play.google.com/store/apps/details?id=", //LINK_APP
+    
       "d": "", //STATUS_APP
       
       "e": "15", //REFRESH_TIME_CONNECTIONS
