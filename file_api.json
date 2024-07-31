@@ -34,6 +34,8 @@
     
       "cc": "https://play.google.com/store/apps/details?id=com.voice.ai.mobile.assistant", //LINK_APP
     
+      "ccc": "market://details?id=com.voice.ai.mobile.assistant", //MARKET APP
+    
       "d": "", //STATUS_APP
       
       "e": "15", //REFRESH_TIME_CONNECTIONS
