@@ -1,0 +1,33 @@
+{
+  "https://*********************************": [  
+  
+    {
+      "a": "Voice Ai - Mobile Assistans", //JUDUL_APP
+      "b": "https://example.com/", //PRIVACY_POLICY
+      "c": "https://", //LINK_SHARE_APP
+      "d": "", //STATUS_APP
+      "e": "15", //REFRESH_TIME_CONNECTIONS
+      
+      // ORIGINAL
+      // "f": "ca-app-pub-7985099499357474/6732652353", //ADMOB_BANNER
+      // "g": "ca-app-pub-7985099499357474/8396053975", //ADMOB_INTERSTITIAL
+      // "h": "ca-app-pub-7985099499357474/7877179229", //ADMOB_NATIVE
+      // "i": "ca-app-pub-7985099499357474/7627550173" //ADMOB_APP_OPEN
+
+
+      // TEST
+       "f": "ca-app-pub-3940256099942544/9214589741", //ADMOB_BANNER
+       "g": "ca-app-pub-3940256099942544/1033173712", //ADMOB_INTERSTITIAL
+       "h": "ca-app-pub-3940256099942544/2247696110", //ADMOB_NATIVE
+       "i": "ca-app-pub-3940256099942544/9257395921", //ADMOB_APP_OPEN
+
+       // SETTING
+        "j": "market://details?id=com.openai.chatgpt", //APP_PACKAGE
+        "jj": "https://play.google.com/store/apps/details?id=com.openai.chatgpt", //APP_PACKAGE
+        "jjj": "com.openai.chatgpt", //APP_PACKAGE
+        "k": "VoiceGptPrefs", //PREFERENCES_NAME
+        "l": "dialogShown", //DIALOG_SHOWN_KEY
+        "m": "com.openai.voice.assistant.AssistantActivity" //PROJECT_1
+    }
+  ]
+}
