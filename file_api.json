@@ -52,8 +52,8 @@
        "i": "ca-app-pub-3940256099942544/9257395921", //ADMOB_APP_OPEN
 
        // SETTING
-        "j": "market://details?id=com.openai.chatgpt", //APP_PACKAGE
-        "jj": "https://play.google.com/store/apps/details?id=com.openai.chatgpt", //APP_PACKAGE
+        "j": "market://details?id=$com.openai.chatgpt", //APP_PACKAGE
+        "jj": "https://play.google.com/store/apps/details?id=$com.openai.chatgpt", //APP_PACKAGE
         "jjj": "com.openai.chatgpt", //APP_PACKAGE
         "k": "VoiceGptPrefs", //PREFERENCES_NAME
         "l": "dialogShown", //DIALOG_SHOWN_KEY
