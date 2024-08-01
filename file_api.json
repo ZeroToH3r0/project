@@ -60,7 +60,7 @@
         "m": "com.openai.voice.assistant.AssistantActivity" //PROJECT_1,     
         
         
-        "n": "0" //SETTING_RATE_OPTIONS (NILAI 1 = TAMPIL MENU RATE / NILAI 0= SEMBUNYIKAN RATE)
+        "n": "1" //SETTING_RATE_OPTIONS (NILAI 1 = TAMPIL MENU RATE / NILAI 0= SEMBUNYIKAN RATE)
     }
   ]
 }
