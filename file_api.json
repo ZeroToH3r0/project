@@ -57,10 +57,7 @@
         "jjj": "com.openai.chatgpt", //APP_PACKAGE
         "k": "VoiceGptPrefs", //PREFERENCES_NAME
         "l": "dialogShown", //DIALOG_SHOWN_KEY
-        "m": "com.openai.voice.assistant.AssistantActivity", //PROJECT_1   
-        
-        
-        "n": "1" //SETTING_RATE_OPTIONS (NILAI 1 = TAMPIL MENU RATE / NILAI 0= SEMBUNYIKAN RATE)
+        "m": "com.openai.voice.assistant.AssistantActivity" //PROJECT_1   
     }
   ]
 }
