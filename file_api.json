@@ -57,7 +57,10 @@
         "jjj": "com.openai.chatgpt", //APP_PACKAGE
         "k": "VoiceGptPrefs", //PREFERENCES_NAME
         "l": "dialogShown", //DIALOG_SHOWN_KEY
-        "m": "com.openai.voice.assistant.AssistantActivity" //PROJECT_1
+        "m": "com.openai.voice.assistant.AssistantActivity" //PROJECT_1,     
+        
+        
+        "n": "0" //SETTING_RATE_OPTIONS
     }
   ]
 }
